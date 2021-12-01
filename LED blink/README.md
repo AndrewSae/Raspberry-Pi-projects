@@ -26,8 +26,7 @@ sudo apt install python3-gpiozero
 
  - It should look something like this 
 
-![This is an image](https://github.com/AndrewSae/Raspberry-Pi-projects/blob/main/LED%20blink/IMG/breadboard.png?raw=true)![144140417-10fb5ef9-5c42-4202-babd-3441df9cd872](https://user-images.githubusercontent.com/84029016/144144140-b44f721c-2e9b-4812-ae64-de293fd85a9b.png)
-
+![This is an image](https://github.com/AndrewSae/Raspberry-Pi-projects/blob/main/LED%20blink/IMG/breadboard.png?raw=true)
 
   - Schematic
   
