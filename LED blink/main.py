@@ -7,3 +7,4 @@ while True:    # a infinate loop
     led.on()    # turns on the led
     sleep(1)    # pauses the code for set time
     led.off()    # turns off the led
+    sleep(1)
