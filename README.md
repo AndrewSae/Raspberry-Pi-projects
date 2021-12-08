@@ -1,1 +1,1 @@
-# benginer-raspberrypi-projects
+# raspberrypi-projects
