@@ -9,7 +9,7 @@ led = [
     LED(9),
     LED(11),
     LED(5)
-    ]    # makes a array called "led" that stores the led GPIO pin numbers
+    ]    # makes a list called "led" that stores the led GPIO pin numbers
 
 x = 0    # makes a var "x" and sets it to 0
 
